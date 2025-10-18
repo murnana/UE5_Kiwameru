@@ -77,3 +77,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+###############################################################################
+# Claude Code
+# https://docs.claude.com/en/docs/claude-code
+###############################################################################
+# User-specific local settings (machine-specific configurations)
+.claude/settings.local.json
